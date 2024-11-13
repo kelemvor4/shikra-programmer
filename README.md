@@ -1,5 +1,11 @@
 # Shikra EEPROM Programming
 
+## Notes:
+This repository is my attempt to gather in a single compendium all I can find for the shikra device.   
+It was created by a company int3/xipiter, but they are now defunct.  
+I forked their repo which contained only some basic information and a python script.  
+I've then gone about adding files and information that I've found about the device.  If you have something not already in this repo, please upload it!
+
 ## Requirements
 
 1. Install Libusb: `sudo apt-get install libusb-dev` on linux. OSX can skip this step.
