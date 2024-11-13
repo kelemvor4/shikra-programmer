@@ -1,0 +1,1 @@
+The Shikra case (int3.cc) by Noclafasm on Thingiverse: https://www.thingiverse.com/thing:3609790
